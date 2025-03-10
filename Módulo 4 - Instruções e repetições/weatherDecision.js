@@ -1,7 +1,7 @@
 // Variável que representa a previsão do tempo
 // Pode ser "rainy" (chuvoso), "sunny" (ensolarado) ou "cloudy" (nublado)
 
-let weatherForecast = "sunny";
+let weatherForecast = "rainy";
 
 // Analogia com a vida real: Decidindo se devemos levar um guarda-chuva
 if (weatherForecast === "rainy") {
